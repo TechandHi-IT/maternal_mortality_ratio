@@ -15,12 +15,12 @@ class _NearestHospitalState extends State<NearestHospital> {
 
   List<Pharmacy> pharmacies = [
     Pharmacy(
-        name: 'Medplus Pharmacy',
-        address: 'No 1, Ikeja City Mall, Alausa, Ikeja, Lagos',
+        name: 'The Brighthope Specialist',
+        address: 'No 530, Ikeja, Lagos',
         phone: '+234 701 234 5678',
         rating: 4.5),
     Pharmacy(
-        name: 'Healthplus Pharmacy',
+        name: 'St Gregorys',
         address: 'No 2, The Palms Shopping Mall, Lekki, Lagos',
         phone: '+234 701 234 5678',
         rating: 4.0),
